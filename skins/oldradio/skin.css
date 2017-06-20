@@ -1,0 +1,27 @@
+#radio{
+background:url(radio_bg_360x100.png);;
+width:360px;
+height:100px;
+}
+#radio-panel{
+position: absolute;
+left: 110px;
+top: 42px;
+width: 240px;
+height: 26px;
+overflow: auto;
+}
+#radio-controls{
+position:absolute;
+left:90px;
+top:70px;
+width:240px;
+height:26px;
+}
+#radio-media{
+width:270px;
+}
+#radio-dial{}
+#radio-play{}
+#radio-rw{}
+
