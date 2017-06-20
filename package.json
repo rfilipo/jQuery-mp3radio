@@ -1,0 +1,24 @@
+{
+  "name": "jquery-mp3radio",
+  "version": "1.0.0",
+  "description": "MP3 player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfilipo/jQuery-mp3radio.git"
+  },
+  "keywords": [
+    "MP3",
+    "player",
+    "skins"
+  ],
+  "author": "Monsenhor",
+  "license": "AGPL3",
+  "bugs": {
+    "url": "https://github.com/rfilipo/jQuery-mp3radio/issues"
+  },
+  "homepage": "https://github.com/rfilipo/jQuery-mp3radio#readme"
+}
