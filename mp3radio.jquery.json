@@ -1,0 +1,34 @@
+{
+    "name": "mp3radio",
+    "title": "jQuery mp3Radio",
+    "description": "jQuery plugin for MP3 player.",
+    "keywords": [
+        "MP3",
+        "player"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Monsenhor",
+        "url": "http://kobkob.org/"
+    },
+    "maintainers": [
+        {
+            "name": "Monsenhor",
+            "email": "ricardo.filipo@gmail.com",
+            "url": "http://kobkob.org/"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "AGPL",
+            "url": "https://github.com/rfilipo/jQuery-mp3radio/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/rfilipo/jQuery-mp3radiojquery/jquery-color/issues",
+    "homepage": "https://github.com/rfilipo/jQuery-mp3radiojquery/jquery-color",
+    "docs": "https://github.com/rfilipo/jQuery-mp3radiojquery/jquery-color",
+    "download": "http://code.jquery.com/#mp3radio",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
