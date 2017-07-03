@@ -1,6 +1,8 @@
 # jQuery-mp3radio
 jQuery plugin - mp3 player with fancy skins
+
 ![oldradio skin](/skins/oldradio/radio_bg_360x100.png)
+
 # Use
 
 ```javascript
