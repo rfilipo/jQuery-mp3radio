@@ -3,6 +3,7 @@ jQuery plugin - mp3 player with fancy skins
 
 # Use
 
+```javascript
 var music = [{
                             id: 0,
                             title:"CHAIRMAN",
@@ -36,3 +37,4 @@ var music = [{
 				} );
                                 console.log( $("#radio") );
 			} );
+```
