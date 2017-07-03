@@ -4,7 +4,7 @@ jQuery plugin - mp3 player with fancy skins
 # Use
 
 ```javascript
-var music = [{
+                       var music = [{
                             id: 0,
                             title:"CHAIRMAN",
                             description:"Mantovani Orchestra pop",
